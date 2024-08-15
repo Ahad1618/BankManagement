@@ -13,6 +13,6 @@ The code is made persistent using proper file handling,both binary and text file
 ->This number of records is updated every time a new account is created in the main database.
 
 NOTE:
-->Go to administerator panel and then view the database in order to see information about any account.
+->Go to admin panel and then view the database in order to see information about any account.
 Admin_id:111
 Pin:121

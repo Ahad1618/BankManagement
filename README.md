@@ -1,5 +1,5 @@
 # BankManagement1
-Its a simple bank management project built in c language, i have wrote this code in my first semester of university.
+Its a simple bank management project built in c language, i have prepared this code in my first semester of university.
 Simple programming fundamentals concepts are used:
 1-Conditions
 2-Iterations
